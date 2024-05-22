@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974053164600",
+    "project_id": "you-to-do-375b3",
+    "storage_bucket": "you-to-do-375b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974053164600:android:7a21695c807e4c6293c8cd",
+        "android_client_info": {
+          "package_name": "com.example.you_to_do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4_ksbW5go8gv3xdXlirVcD9EnNRoLdRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
