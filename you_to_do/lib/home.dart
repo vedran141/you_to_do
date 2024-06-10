@@ -386,7 +386,7 @@ class _HomePageState extends State<HomePage> {
                                     ),
                                     const SizedBox(width: 5),
                                     Text(
-                                      '${note['dateandtime']}',
+                                      '${note['formattedDateTime']}',
                                       style: GoogleFonts.ubuntu(
                                         fontSize: 12,
                                         color: Colors.grey,

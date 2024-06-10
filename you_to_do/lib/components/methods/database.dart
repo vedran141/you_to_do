@@ -34,7 +34,8 @@ class DatabaseService {
         'text': text,
         'isDone': isDone,
         'tag': tag.name,
-        'dateandtime': dateAndTime
+        'dateandtime': now,
+        'formattedDateTime': dateAndTime
       });
     } catch (e) {
       showErrorDialog('Error adding note: $e');
