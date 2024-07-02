@@ -37,7 +37,7 @@ class _SignupPageState extends State<SignupPage> {
           },
         ),
       ),
-      backgroundColor: const Color.fromARGB(255, 215, 245, 235),
+      backgroundColor: const Color.fromARGB(255, 225, 255, 245),
       body: Center(
         child: SingleChildScrollView(
           child: Column(

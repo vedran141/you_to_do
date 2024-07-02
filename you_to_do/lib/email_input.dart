@@ -22,7 +22,7 @@ class _EmailInputPageState extends State<EmailInputPage> {
             icon: const Icon(Icons.arrow_back, color: Colors.black),
             onPressed: () => Navigator.of(context).pop()),
       ),
-      backgroundColor: const Color.fromARGB(255, 215, 245, 235),
+      backgroundColor: const Color.fromARGB(255, 225, 255, 245),
       body: Center(
         child: SingleChildScrollView(
           child: Column(

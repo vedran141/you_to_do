@@ -15,7 +15,7 @@ class SignupSuccessPage extends StatelessWidget {
         }
       },
       child: Scaffold(
-          backgroundColor: const Color.fromARGB(255, 215, 245, 235),
+          backgroundColor: const Color.fromARGB(255, 225, 255, 245),
           body: SafeArea(
             child: Center(
               child: SingleChildScrollView(
